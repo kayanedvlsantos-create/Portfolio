@@ -28,14 +28,15 @@ async function getAboutGithub() {
             <article class="about-content">
             <h2>Sobre mim</h2>
             <p>
-            Desenvolvedora Full-Stack em formação pela Generation Brasil, atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento web. Tenho conhecimento em JavaScript, HTML, CSS, MySQL e Node.js. Inglês fluente.
-Possuo experiência na área de Estética Pet e no setor administrativo de vendas, de onde trago competências como atenção aos detalhes, organização, responsabilidade, empatia e cumprimento de prazos.
-            </p>
+            Sou Kayane do Val Lima, Desenvolvedora FullStack apaixonada por Front-End. Comecei minha jornada na área de desenvolvimento web com grande entusiasmo e dedicação no final de 2025.
+            Apesar do pouco tempo de atuação, trago experiências teóricas e práticas na área Tech, fazendo uso de HTML, CSS, Node.js, NestJS, MySQL e versionamento em Git.            </p>
 
             <p>
-Atualmente tenho o prazer de atuar como representante de classe da turma JS14 do Bootcamp de JavaScript da Generation Brasil, exercendo na prática habilidades de comunicação, organização, colaboração e liderança, tendo a responsabilidade de ser a ponte entre alunos e instrutores, contribuindo para o bom andamento das atividades.
+            Estou me graduando no Bootcamp de JavaScript da Generation Brasil, onde tenho o prazer de atuar como representante de classe da turma JS14.
+            Minhas experiências prévias em outras áreas me trouxeram diversos aprendizados sobre relações interpessoais, responsabilidade e trabalho em equipe — soft skills que busco aplicar no ambiente de trabalho. </p>
 
-Tenho facilidade em aprender, sou comprometida com meu desenvolvimento e estou em constante evolução.            </p>
+            <p>
+            Atualmente, estou em disposição para oportunidades de Júnior, freelance ou colaborações, onde possa contribuir com minha paixão por desenvolvimento web e continuar aprendendo e crescendo na área de tecnologia.
 
             <div class="about-buttons-data">
                 <div class="buttons-container">
