@@ -36,7 +36,7 @@ async function getAboutGithub() {
             Minhas experiências prévias em outras áreas me trouxeram diversos aprendizados sobre relações interpessoais, responsabilidade e trabalho em equipe — soft skills que busco aplicar no ambiente de trabalho. </p>
 
             <p>
-            Atualmente, estou em disposição para oportunidades de Júnior, freelance ou colaborações, onde possa contribuir com minha paixão por desenvolvimento web e continuar aprendendo e crescendo na área de tecnologia.
+            Atualmente, estou à disposição para oportunidades de Júnior, freelance ou colaborações, onde possa contribuir com minha paixão por desenvolvimento web e continuar aprendendo e crescendo na área de tecnologia.
 
             <div class="about-buttons-data">
                 <div class="buttons-container">
